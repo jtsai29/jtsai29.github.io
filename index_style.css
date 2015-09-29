@@ -2,3 +2,20 @@ h1 {
 	color: blue;
 	text-align: center;
 }
+
+#page_subtitle {
+	background-color: yellow;
+}
+
+p {
+	color: blue;
+	text-align: center;
+}
+
+body {
+	background-color: #c0d6e4;
+}
+
+#links {
+	background-color: #66cdaa;
+}
